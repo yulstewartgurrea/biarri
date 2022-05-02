@@ -18,4 +18,4 @@ python main.py
 1. Limit trades by 60.
 2. From the first 60 trades, sort the json array by price and time.
 3. Get the min element and max element.
-4. From there, iterate by 60 since it is the time limit to make a trade.
+4. From there, iterate by 60 from the max element.
